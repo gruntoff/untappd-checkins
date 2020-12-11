@@ -6,6 +6,6 @@ Jupyter Notebook contains:
 - Data cleaning
 - Visual analisys
 - Feature engineering
-- Model training
+- Random Forrest model training
 
 [See in nbviewer](https://nbviewer.jupyter.org/github/gruntoff/untappd-checkins/blob/main/Untappd%20check-ins%20analisys.ipynb)
