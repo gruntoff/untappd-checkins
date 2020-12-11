@@ -9,4 +9,4 @@ Jupyter Notebook contains:
 - Feature engineering
 - Model training
 
-See in nbviewer: https://nbviewer.jupyter.org/github/gruntoff/untappd-checkins/blob/main/Untappd%20check-ins%20analisys.ipynb
+[See in nbviewer](https://nbviewer.jupyter.org/github/gruntoff/untappd-checkins/blob/main/Untappd%20check-ins%20analisys.ipynb)
