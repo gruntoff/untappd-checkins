@@ -1,5 +1,4 @@
-# untappd-checkins
-My Untappd check-ins analysis
+# Untappd check-ins analysis
 
 Jupyter Notebook contains:
 - Getting data with Untappd API
